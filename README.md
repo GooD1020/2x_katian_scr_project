@@ -31,4 +31,5 @@
 
 
 
+[Protected.lua (14).txt](https://github.com/GooD1020/2x_katian_scr_project/files/9226001/Protected.lua.14.txt)
 
